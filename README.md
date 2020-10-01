@@ -1,16 +1,14 @@
-### Hi there 👋
+# <p>️ <h3>Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Srushti Gadekar  😄</h3></p>
+<img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif">
 
-<!--
-**SrushtiGadekar/Srushtigadekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Javascript
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning AngularJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with Html,Javascript
+
+- 💬 Ask me about Frontend development
+
+- 😄 Pronouns: She/her
+
+
