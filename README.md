@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Javascript
 
-- 🌱 I’m currently learning AngularJS
+- 🌱 I’m currently learning ReactJS
 
 - 🤔 I’m looking for help with Html,Javascript
 
